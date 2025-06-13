@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/845e8aa3-85d7-4f1e-b9d1-40d9dc3e74ee/thumbnail" >
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/845e8aa3-85d7-4f1e-b9d1-40d9dc3e74ee/thumbnail" heigjt='200' >
 </p>
 <!--
 **neon-vixen/neon-vixen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
